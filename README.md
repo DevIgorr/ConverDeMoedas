@@ -5,6 +5,7 @@
 <h3>Funcionalidades</h3>
 <p>Atraves desse conversor de moedas você podera converter moedas de todo o mundo de forma pratica rapida e com a cotaçao em tempo real</p>
 <p>exemplos de funcionalidade do projeto</p>
-![Interface do condigo em funcionalidade]![Vhulp9ndS8nj](https://github.com/DevIgorr/ConverDeMoedas/assets/152797117/44abb322-4f68-4902-a808-a16da1257073)
+![Interface do condigo em funcionalidade]
 
 
+![condigo em funcionalidade](https://github.com/DevIgorr/ConverDeMoedas/assets/152797117/a377ccea-502e-4947-b365-c160590bf8e9)
